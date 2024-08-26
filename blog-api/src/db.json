@@ -1,0 +1,11 @@
+{
+  "posts": [
+    { "id": 1, "title": "Bài viết 1", "content": "Nội dung bài viết 1", "authorId": 1 },
+    { "id": 2, "title": "Bài viết 2", "content": "Nội dung bài viết 2", "authorId": 2 }
+  ],
+  "users": [
+    { "id": 1, "username": "user1", "password": "password1", "role": "user" },
+    { "id": 2, "username": "user2", "password": "password2", "role": "user" },
+    { "id": 3, "username": "admin", "password": "111", "role": "admin" }
+  ]
+}
